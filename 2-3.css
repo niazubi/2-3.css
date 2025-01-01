@@ -1,0 +1,291 @@
+ul>li {
+    list-style: none;
+    margin-bottom: 24px;
+}
+
+ul {
+    display: inline-block;
+}
+
+nav {
+    padding: 12px 24px;
+    background: #F7F4FF;
+    margin-left: 400px;
+    text-align: center;
+
+}
+
+.navitems {
+    display: inline-block;
+    color: #323232;
+    font-family: Inter;
+    font-size: 18px;
+    margin-right: 20px;
+}
+
+#contact {
+    color: #8E26C0;
+    font-family: Inter;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+
+#uss {
+    color: #8E26C0;
+    font-family: Inter;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    padding: 8px 16px;
+    border-radius: 8px;
+    border: 1px solid #8E26C0;
+}
+
+#mainfirst {
+    width: 1300px;
+    margin-bottom: 83px;
+
+}
+
+#firstimg {
+
+    width: 610px;
+    margin-top: 142px;
+    display: inline-block;
+    float: left;
+
+}
+
+.lorem {
+    color: #535862;
+    font-family: Prata;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.listitems {
+    color: #000;
+    font-family: "Fira Sans";
+    font-size: 24px;
+    font-style: normal;
+}
+
+#offer {
+
+    width: 644px;
+    display: block;
+    float: right;
+    margin-top: 222px;
+    margin-bottom: 83px;
+}
+
+h2 {
+    color: #000;
+    text-align: center;
+    font-family: Inter;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+
+#mainsecond {
+    display: contents;
+    text-align: center;
+    width: 1250px;
+}
+
+#contactus {
+    color: #000;
+    text-align: center;
+    font-family: Inter;
+    font-size: 56px;
+    margin-top: 83px;
+}
+
+.informacia {
+    color: #6D5F8B;
+    font-family: Prata;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+
+}
+
+.saxeli {
+
+    color: #000;
+    font-family: Phetsarath;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+#container {
+    width: 1250px;
+    align-items: center;
+    display: flex;
+    padding: 32px;
+    align-self: stretch;
+    border-radius: 16px;
+    background: #F7F4FF;
+}
+
+#info {
+    border-radius: 16px;
+    background: #FFF;
+}
+
+#listsecond {
+
+    padding: 20px;
+    flex-direction: column;
+    align-items: flex-start;
+    align-self: stretch;
+    border-radius: 16px;
+    background: #FFF;
+    text-align: left;
+}
+
+#sia {
+    padding: 20px;
+    align-self: stretch;
+    text-align: left;
+}
+
+#namee {
+    border-radius: 8px;
+    border: 1px solid #8E26C0;
+    background-color: #F7F4FF;
+    width: 760px;
+    padding: 8px 16px;
+    margin-bottom: 24px;
+}
+
+form {
+    margin-left: 24px;
+    width: 760px;
+}
+
+#emaill {
+    border-radius: 8px;
+    border: 1px solid #8E26C0;
+    background-color: #F7F4FF;
+    width: 760px;
+    padding: 8px 16px;
+    margin-bottom: 24px;
+}
+
+#textt {
+    border-radius: 8px;
+    border: 1px solid #8E26C0;
+    background-color: #F7F4FF;
+    width: 760px;
+    height: 122px;
+    border-radius: 8px;
+    border: 1px solid #8E26C0;
+    background-color: #F7F4FF;
+    width: 760px;
+    padding: 16px;
+
+}
+
+#name {
+    display: flex;
+    color: #1B003D;
+    font-family: "Noto Sans Georgian";
+    font-size: 14px;
+    text-align: left;
+
+
+}
+
+#email {
+    display: flex;
+    color: #1B003D;
+    font-family: "Noto Sans Georgian";
+    font-size: 14px;
+    text-align: left;
+}
+
+::placeholder {
+    color: #6D5F8B;
+
+}
+
+#send {
+    color: #FFF;
+    border-radius: 8px;
+    background: #8E26C0;
+    width: 140px;
+    padding: 12px 24px;
+    margin-top: 24px;
+    margin-left: 660px;
+
+}
+
+footer {
+    display: flex;
+    color: #FFF;
+
+    padding: 64px 0px 48px 0px;
+    justify-content: space-between;
+    align-items: center;
+    background: #53389E;
+    padding-right: 16px;
+
+
+
+}
+
+.footer {
+    color: #E9D7FE;
+    display: block;
+}
+
+#new {
+    color: #FFFFFF;
+    border-radius: 6px;
+    border: 1px solid;
+    background-color: #FFFFFF4D;
+    padding: 2px 6px;
+    border-color: #FFFFFF4D;
+    margin-left: 6px;
+}
+
+#logo {
+    padding: 8px 8px;
+    background-color: #FFF;
+    border-radius: 8px;
+}
+
+#logoo {
+    display: flex;
+    padding-top: var(--spacing-4xl, 32px);
+    justify-content: space-between;
+    align-items: center;
+    align-content: center;
+    row-gap: 24px;
+    align-self: stretch;
+    flex-wrap: wrap;
+}
+
+hr {
+    color: #53389E;
+}
+
+.special {
+    color: #D6BBFB;
+}
+
+#copyright {
+    color: #D6BBFB;
+}
